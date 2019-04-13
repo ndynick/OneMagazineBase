@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Happy_Magazines_Subscription.BaseForm">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Happy_Magazines_Subscription.DisplayAll">
+    <Position X="6.5" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>eQKAEAKgkCiQYBEABhCAIAAWAiYRYgAQAQAIABABAEQ=</HashCode>
+      <FileName>DisplayAll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Happy_Magazines_Subscription.DisplaySchool">
+    <Position X="9.25" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAAAAAKAAAACAAAAAAAAAAACAAAAAQA=</HashCode>
+      <FileName>DisplaySchool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Happy_Magazines_Subscription.MemberSubscriber">
+    <Position X="18" Y="2" Width="2.75" />
+    <InheritanceLine Type="Happy_Magazines_Subscription.Subscriber" FixedToPoint="true">
+      <Path>
+        <Point X="21.25" Y="4.125" />
+        <Point X="20.75" Y="4.125" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAASAAiAAgAAAAAACEAAIACAACAAAAAAAAQgA=</HashCode>
+      <FileName>MemberSubscriber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Happy_Magazines_Subscription.MemberSubscriptionForm">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>9QEGSlICFCQoKJgAAACEahgSABiAiCIxQaAhEgBxRQU=</HashCode>
+      <FileName>MemberSubscriptionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Happy_Magazines_Subscription.MenuForm">
+    <Position X="9.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgACCAAAABAAACAAAACAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Happy_Magazines_Subscription.Program">
+    <Position X="12.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAgCAAACAgAAAAAAAAAAAAAAAAAAAQBAAAgAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Happy_Magazines_Subscription.SchoolSubscriber">
+    <Position X="24.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgABgBAIAAIAAAAIIAAAAAARAAABAAgA=</HashCode>
+      <FileName>SchoolSubscriber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Happy_Magazines_Subscription.SchoolSubscriptionForm">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAACQlQAECAAEFwAAICAwAACACCAgIAgQCAoAAjAQAU=</HashCode>
+      <FileName>SchoolSubscriptionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Happy_Magazines_Subscription.Subscriber">
+    <Position X="21.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>JAAIAAIAAAAAAAAAEAkAgAgCAhgEABDBAAEUAQCAAAA=</HashCode>
+      <FileName>Subscriber.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Happy_Magazines_Subscription.Properties.Resources">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Happy_Magazines_Subscription.Properties.Settings">
+    <Position X="12.25" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Happy_Magazines_Subscription.ISubscription">
+    <Position X="18.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subscriber.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
